@@ -1,4 +1,3 @@
-# flutter_application_2
-
+# Awesome Ideas Generator
 A new Flutter project.
 
